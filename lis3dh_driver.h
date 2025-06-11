@@ -477,6 +477,7 @@ uint32_t LIS3DH_StartSelfTest(void) ;
 
 bool LIS3DH_PosDetectEnable(LIS3DH_ODR_t decHz);
 
+//range unit is 32mg, nDuration unit is 1/odr
 bool LIS3DH_MotionDetectEnable(LIS3DH_ODR_t odr, uint8_t accRange, uint8_t nDuration);
 
 bool LIS3DH_SensorStoped(void);

@@ -57,10 +57,10 @@
   <Watches active="0" update="Never"/>
  </Watch4>
  <Files>
-  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="97" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="76" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="481" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../lis3dh_driver.h" selected="0" top="463" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="75" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../lis3dh_driver.c" selected="0" top="56" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="97" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../main.c" selected="0" top="76" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="476" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../lis3dh_driver.h" selected="1" top="463" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="393" useTextEdit="1" openedFrom="E:/01Locker/06BeaconSDK/nRF5_SDK_17.0.2_d674dde/examples/peripheral/nrf_twi_sensor_lis3dh_demo/lis3dh_driver.h" useBinaryEdit="0" left="0" path="../../../lis3dh_driver.c" selected="0" top="317" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="99" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="81" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="twi_sensor_pca10040" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/01Locker/06BeaconSDK/nRF5_SDK_17.0.2_d674dde/examples/peripheral/nrf_twi_sensor_lis3dh_demo" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="twi_sensor_pca10040" fileDialogDefaultFilter="*.c;*.cpp;*.cxx;*.cc;*.h;*.hpp;*.hxx" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="E:/01Locker/06BeaconSDK/nRF5_SDK_17.0.2_d674dde/examples/peripheral/nrf_twi_sensor_lis3dh_demo" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
